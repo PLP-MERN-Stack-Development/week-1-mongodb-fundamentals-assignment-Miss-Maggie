@@ -9,7 +9,7 @@ db.books.find({author: "George Orwell"})
 
 //Task 2.4: Update the price of a specific book
 db.books.updateOne(
-  { title: "1954" },
+  { title: "The Great Gatsby" },
   { $set: { price: 25.90 } }
 )
 
