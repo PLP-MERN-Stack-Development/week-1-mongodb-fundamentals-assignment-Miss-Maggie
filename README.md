@@ -49,7 +49,7 @@ This assignment focuses on understanding the fundamentals of MongoDB, including 
 ## License
 This project is licensed under the MIT License.
 
-## Author
+## Author by 
 
 `Miss-Maggie`
 
